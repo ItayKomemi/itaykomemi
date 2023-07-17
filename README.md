@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Itay</h1>
 <h3 align="center">A passionate Full-stack/Frontend developer from Israel</h3>
 
-- 🔭 I’m currently working on **Spotify with React**
+- 🔭 I’m currently working on **WhatsApp inspired app**
 
 - 📫 How to reach me **itaykomemi8@gmail.com**
 
